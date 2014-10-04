@@ -1,4 +1,4 @@
 WitAndroidApp
 =============
 
-WIT Android App
+WIT Android App Respository, for Android Course
